@@ -35,12 +35,11 @@ improvements in DRBD, and having developer level discussions.
 === Blogs
 
 * Florian Haas, one of the co-authors of this guide, maintains
-  http://blogs.linbit.com/florian[a technical blog].
+  http://fghaas.wordpress.com/[a technical blog].
 
-* Martin Loschwitz a.k.a. +madkiss+, another
-  http://www.linbit.com[LINBIT] employee and co-maintainer of the
+* Martin Loschwitz a.k.a. +madkiss+, co-maintainer of the
   http://www.debian.org[Debian] DRBD packages, keeps
-  http://blogs.linbit.com/martin[a personal blog] in German.
+  http://martinloschwitz.wordpress.com[a personal blog] in German.
 
 * http://www.planet-ha.org/[Planet HA] is an aggregated feed
   centralizing blog posts from a number of high availability
